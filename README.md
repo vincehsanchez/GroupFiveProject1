@@ -1,0 +1,22 @@
+# Unemployment and Healthcare
+
+- Davit Mirzoyan
+- Valentina Hernandez
+- Fesseha Habtiymer
+- Vince Sanchez
+
+Team Members: Vince Sanchez, Valentina Hernandez, Fesseha Habtiymer, Davit Mirzoyan
+Project Description: We are going to look at how unemployment could have an affect on a person’s health and wellbeing, specifically heart disease.
+Research Questions:
+How does unemployment affect heart disease?
+How does the analysis differ based on area?
+Does the analysis have statistical significance?
+Datasets to be Used:
+Bureau of Labor Statistics
+CDC
+Breakdown of Tasks:
+Identify the data that will be used with the timeframe.
+Analyze the data to find trends or lack thereof.
+Create charts to present the findings.
+Implications of findings, what do they mean?
+Identify the shortcomings of the analysis or data used.
