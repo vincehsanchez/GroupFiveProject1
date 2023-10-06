@@ -32,4 +32,8 @@ The effects of unemployment on a person's health and wellbeing, specifically hea
 - Implications of findings (what do they mean)
 - Identify the limitations of the analysis or data used.
 
-##
+## Works Cited
+
+_The Centers for Disease Control and Prevention_. Heart Disease Mortality by State, https://www.cdc.gov/nchs/pressroom/sosmap/heart_disease_mortality/heart_disease.htm)https://www.cdc.gov/nchs/pressroom/sosmap/heart_disease_mortality/heart_disease.htm. Accessed 02 Oct. 2023.
+
+_U.S. BUREAU OF LABOR STATISTICS. Employment Situation Summary_, https://www.bls.gov/charts/employment-situation/civilian-unemployment.htm. Accessed 02 Oct. 2023.
