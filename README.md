@@ -5,9 +5,7 @@
 - Fesseha Habtiymer
 - Vince Sanchez
 
-
-
-Project Description: We are going to look at how unemployment could have an affect on a person’s health and wellbeing, specifically heart disease.
+We are going to look at how unemployment could have an affect on a person’s health and wellbeing, specifically heart disease.
 Research Questions:
 How does unemployment affect heart disease?
 How does the analysis differ based on area?
