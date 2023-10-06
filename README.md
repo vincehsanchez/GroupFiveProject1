@@ -29,7 +29,7 @@ The effects of unemployment on a person's health and wellbeing, specifically hea
 - Identify the data that will be used with the timeframe.
 - Analyze the data to find trends or lack thereof.
 - Create charts to present the findings.
-- Implications of findings, what do they mean?
-- Identify the shortcomings of the analysis or data used.
+- Implications of findings (what do they mean)
+- Identify the limitations of the analysis or data used.
 
 ##
