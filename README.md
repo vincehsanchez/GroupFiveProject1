@@ -5,7 +5,8 @@
 - Fesseha Habtiymer
 - Vince Sanchez
 
-Team Members: Vince Sanchez, Valentina Hernandez, Fesseha Habtiymer, Davit Mirzoyan
+
+
 Project Description: We are going to look at how unemployment could have an affect on a person’s health and wellbeing, specifically heart disease.
 Research Questions:
 How does unemployment affect heart disease?
