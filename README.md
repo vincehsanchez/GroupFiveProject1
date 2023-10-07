@@ -9,8 +9,6 @@ The effects of unemployment on a person's health and wellbeing, specifically hea
 - Fesseha Habtiymer
 - Vince Sanchez
 
-
-
 ## Research Questions:
 1. How does unemployment affect heart disease?
 2. How does the analysis differ based on years?
@@ -31,6 +29,23 @@ The effects of unemployment on a person's health and wellbeing, specifically hea
 - Create charts to present the findings.
 - Implications of findings (what do they mean)
 - Identify the limitations of the analysis or data used.
+
+## What did we do?
+(provide breakdown on how we got data)
+
+(how we "cleaned" up the data)
+
+(how we wanted to compare data)
+
+(what did we see)
+
+(what predictions did we draw from data?)
+
+(what justifications can we present to our predictions?)
+
+(where do we go from here?)
+
+(disclose limitations of our data)
 
 ## Works Cited
 
