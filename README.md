@@ -17,8 +17,8 @@ We are going to look at how unemployment could have an affect on a person’s he
 - CDC
 
 ## Breakdown of Tasks:
-Identify the data that will be used with the timeframe.
-Analyze the data to find trends or lack thereof.
-Create charts to present the findings.
-Implications of findings, what do they mean?
-Identify the shortcomings of the analysis or data used.
+- Identify the data that will be used with the timeframe.
+- Analyze the data to find trends or lack thereof.
+- Create charts to present the findings.
+- Implications of findings, what do they mean?
+- Identify the shortcomings of the analysis or data used.
