@@ -63,7 +63,7 @@ Even though we were dealing with the thousands for unemployment and comparing it
 
 **Statistical Significance**
 
-Using the <input what Davit used> we cannot confidently say that the unemployment affects the mortality of heart disease or any development of it. We can possibly see the opposite effects of unemployment or that other external factors such as world events independently affect the unemployment numbers and heart disease mortality.
+Using the correlation coeffcient we found that Unemployment and Heart Disease Deaths are moderately correlated so we cannot confidently say that the unemployment affects the mortality of heart disease or any development of it. We can possibly see the opposite effects of unemployment or that other external factors such as world events independently affect the unemployment numbers and heart disease mortality.
 
 **Data Limitations Disclosure**
 
