@@ -55,7 +55,7 @@ We gathered data between the years of 2005 and 2021 for large enough spread of d
 
 **Data Predictions**
 
-Even though we were dealing with the thousands for unemployment and comparing it to the hundreds of thousands for heart disease mortality, there were still points of intersection for us to suspect an interaction between the two.
+Even though we were dealing with the millions for unemployment and comparing it to the hundreds of thousands for heart disease mortality, there were still points of intersection for us to suspect an interaction between the two.
 - Beginning in 2014 we see unemployment rise while heart disease mortalities decrease, so as the years go on heart disease has a significant effect meanwhile unemployment steadily rises indicating the years have significant effect. 
 - They intersect one another from opposite directions in between 2015-2016 showing us the effects of each passing year. 
 - In 2019 the two lines rise at the same time and converge with one another, indicating a possible significance since years affects the rise of total number of unemployment and heart disease mortality.
